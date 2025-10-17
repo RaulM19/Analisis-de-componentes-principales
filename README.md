@@ -1,1 +1,1 @@
-# An-lisis-de-componentes-principales
+# Analisis-de-componentes-principales
